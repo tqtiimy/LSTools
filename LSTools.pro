@@ -1,6 +1,6 @@
 TEMPLATE = app
 
-QT += qml quick
+QT += qml quick widgets
 
 CONFIG += c++11
 CONFIG += c++14
@@ -10,3 +10,6 @@ SOURCES += \
 
 HEADERS += \
     cpp/stable.h
+
+RESOURCES += \
+    qml/qml.qrc
