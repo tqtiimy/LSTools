@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MaterialUI">
+        <file>Element/BaseListItem.qml</file>
+        <file>Interface/MaterialLabel.qml</file>
+    </qresource>
+</RCC>
