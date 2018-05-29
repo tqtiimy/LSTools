@@ -2,5 +2,6 @@
     <qresource prefix="/MaterialUI">
         <file>Element/BaseListItem.qml</file>
         <file>Interface/MaterialLabel.qml</file>
+        <file>MaterialUI.qml</file>
     </qresource>
 </RCC>

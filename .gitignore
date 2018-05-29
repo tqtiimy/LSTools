@@ -33,3 +33,6 @@
 
 #User files
 *.user
+
+#autoSave file
+*.autosave
