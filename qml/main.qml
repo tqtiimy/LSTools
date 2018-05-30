@@ -82,7 +82,7 @@ ApplicationWindow {
                 switch(itemQrcLocation)
                 {
                 case "":break;
-
+                case "notSupport":
                 }
             }
         }

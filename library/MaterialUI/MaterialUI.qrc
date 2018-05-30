@@ -3,5 +3,7 @@
         <file>Element/BaseListItem.qml</file>
         <file>Interface/MaterialLabel.qml</file>
         <file>MaterialUI.qml</file>
+        <file>Interface/MaterialSnackbar.qml</file>
+        <file>Element/View.qml</file>
     </qresource>
 </RCC>
